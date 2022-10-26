@@ -1,6 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
-# Olá eu sou o **Alex**, e bem-vindo ao meu perfil!! 😁
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alex;I'm+20+years+old;I'm+a+student+of+Information+System;+++Welcome,+my+profile!!+😁)](https://git.io/typing-svg)
+
+
 #### Aqui é meu cantinho e é aqui que eu posto meus projetos e salvo meus códigos. 💻 ![goma-cat](https://user-images.githubusercontent.com/89947341/197954598-ead79c61-2a6f-46f1-add3-3dda6355907c.gif)
 - 🌱 Eu sou estudante e estou sempre em busca de novos conhecimentos!
 
