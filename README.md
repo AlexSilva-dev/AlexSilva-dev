@@ -1,6 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0000CDheight=120&section=header"/>
+
 # Olá eu sou o **Alex**, e bem-vindo ao meu perfil!! 😁
 #### Aqui é meu cantinho e é aqui que eu posto meus projetos e salvo meus códigos. 💻 ![goma-cat](https://user-images.githubusercontent.com/89947341/197954598-ead79c61-2a6f-46f1-add3-3dda6355907c.gif)
 - 🌱 Eu sou estudante e estou sempre em busca de novos conhecimentos!
+
+
+
+
 #
 <div align="center">
   <a href="https://github.com/AlexSilva-dev">
