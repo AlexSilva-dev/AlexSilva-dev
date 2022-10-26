@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Bem-vindo ao meu perfil!!
+- 🌱 Eu sou estudante e estou em busca de novos conhecimentos!
+Aqui é meu cantinho e é aqui que eu posto meus projetos e salvo meus códigos. 
 <!--
 **AlexSilva-dev/AlexSilva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
