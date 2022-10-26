@@ -29,5 +29,9 @@
   <a href="https://www.linkedin.com/in/alex-da-silva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+![goma-cat](https://user-images.githubusercontent.com/89947341/197954598-ead79c61-2a6f-46f1-add3-3dda6355907c.gif)
+  
   
 ----------
+  ![goma-cat](https://user-images.githubusercontent.com/89947341/197954598-ead79c61-2a6f-46f1-add3-3dda6355907c.gif)
+
