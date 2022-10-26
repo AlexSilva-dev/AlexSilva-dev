@@ -1,4 +1,4 @@
-# Olá eu sou o Alex, e bem-vindo ao meu perfil!! 😁
+# Olá eu sou o **Alex**, e bem-vindo ao meu perfil!! 😁
 #### Aqui é meu cantinho e é aqui que eu posto meus projetos e salvo meus códigos. 💻
 - 🌱 Eu sou estudante e estou sempre em busca de novos conhecimentos!
 #
