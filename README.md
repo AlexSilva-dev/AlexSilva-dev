@@ -1,12 +1,14 @@
-# Bem-vindo ao meu perfil!! 😁
+# Olá eu sou o Alex, e bem-vindo ao meu perfil!! 😁
 #### Aqui é meu cantinho e é aqui que eu posto meus projetos e salvo meus códigos. 💻
-- 🌱 Eu sou estudante e estou em busca de novos conhecimentos!
+- 🌱 Eu sou estudante e estou sempre em busca de novos conhecimentos!
 #
 <div align="center">
   <a href="https://github.com/AlexSilva-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexSilva-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSilva-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  ### 🖥️ Tecnologias e ferramentas:
 <div style="display: inline_block"><br>
    <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
