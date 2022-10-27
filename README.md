@@ -14,13 +14,13 @@
 
 
 
-#
+##
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexSilva-dev&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=9932CC&text_color=00BFFF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSilva-dev&layout=compact&hide_border=true&title_color=EE82EE&text_color=00BFFF&bg_color=0d1117" />
 </div>
   
-  ### 🖥️ Tecnologias e ferramentas:
+### 🖥️ Tecnologias e ferramentas:
 <div style="display: inline_block"><br>
    <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
@@ -35,7 +35,8 @@
   
  #
   
-  <div> 
+ 
+ <div> 
 
   <a href = "mailto:alexaleq321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-da-silva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -43,9 +44,4 @@
 </div>
   
   
- <html>
-<body>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header" style="transform:rotate(80deg);"/> <br> 
- 
-</body>
-</html>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>
