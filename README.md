@@ -16,7 +16,7 @@
 
 ##
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexSilva-dev&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=9932CC&text_color=00BFFF&bg_color=0d1117" alt="Alex" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.five.app/api?username=AlexSilva-dev&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=9932CC&text_color=00BFFF&bg_color=0d1117" alt="Alex" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexSilva-dev&layout=compact&hide_border=true&title_color=EE82EE&text_color=00BFFF&bg_color=0d1117" />
 </div>
   
