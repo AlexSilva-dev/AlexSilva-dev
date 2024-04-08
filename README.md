@@ -7,7 +7,7 @@
 
 
 
-### Aqui é meu cantinho e é aqui que eu posto meus projetos e salvo meus códigos. 💻 
+### Aqui é meu cantinho dos Projetos e Rascunhos. 💻 
 
 <div style="display: flex; justify-content: center; flex-direction: column;">
   <img src="https://user-images.githubusercontent.com/89947341/197954598-ead79c61-2a6f-46f1-add3-3dda6355907c.gif" />
@@ -41,12 +41,10 @@
  #
   
  
- <div> 
-
+ <div>
   <a href = "mailto:alexaleq321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-da-silva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=EE82EE&section=footer"/>
