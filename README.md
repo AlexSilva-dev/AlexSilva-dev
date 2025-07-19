@@ -16,11 +16,7 @@
 
 
 
-##
-<div align="center">  
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=AlexSilva-dev&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Alex" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSilva-dev&theme=radical&show_icons=true&hide_border=true&layout=compact" />
-</div>
+
   
 ### Tecnologias e ferramentas:
 <div style="display: inline_block"><br>
